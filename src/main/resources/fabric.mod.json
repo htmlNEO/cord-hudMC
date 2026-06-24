@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "cordhud",
+  "version": "${version}",
+  "name": "Cord HUD",
+  "description": "Client-side player coordinate tracker for Chaos Cubed events. Press Numpad 6 to open the tracker GUI showing every player's live coordinates and dimension.",
+  "authors": [
+    "Chaos Cubed"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.chaoscubed.cordhud.client.CordHudClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.26.0",
+    "java": ">=21"
+  }
+}

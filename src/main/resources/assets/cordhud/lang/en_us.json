@@ -1,0 +1,10 @@
+{
+  "key.cordhud.open_tracker": "Open Coordinate Tracker",
+  "category.cordhud.general": "Cord HUD",
+  "screen.cordhud.tracker.title": "Player Coordinate Tracker",
+  "screen.cordhud.tracker.search": "Search player...",
+  "screen.cordhud.tracker.sort": "Sort: %s",
+  "screen.cordhud.tracker.no_world": "Not connected to a world",
+  "screen.cordhud.tracker.none_found": "No players found",
+  "screen.cordhud.tracker.count": "%s player(s) tracked"
+}
